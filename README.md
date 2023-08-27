@@ -10,7 +10,7 @@ connect to a database storing basic logistic data. Representiational State Trans
 In this project, the API will be connected to a data source to manage the interaction with the data source. 
 
 # Requirements of the API:
-The API must contain at least one:
+The API contain at least one:
 - GET
 - POST
 - PATCH
