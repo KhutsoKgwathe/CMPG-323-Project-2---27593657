@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "type": "secrets"
+    },
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "Server=tcp:zaazrcmpg323-27593657.database.windows.net,1433;InitialCatalog=CMPG_Project2_27593657;Encrypt=True;TrustServerCertificate=False;ConnectionTimeout=30;Authentication=\"ActiveDirectoryDefault\";",
+      "dynamicId": null
+    }
+  }
+}
