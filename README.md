@@ -33,5 +33,8 @@ method per resource.
 
 # References
 
-inforworld, 2023, Available at: https://www.infoworld.com/article/3691114/how-to-work-with-ef-migrations-in-aspnet-core.amp,html . Accessed: 29/08/2023
-Microsoft, 2023, Migrrations Overview, Available at: https://learn.microsoft.com/en-us/core/managing-schemas/migrations/?tabs=dotnet-core-cli . Accessed: 30/08/2023
+- inforworld, 2023, Available at: https://www.infoworld.com/article/3691114/how-to-work-with-ef-migrations-in-aspnet-core.amp.html . Accessed: 29/08/2023
+- 
+- Microsoft, 2023, Migrrations Overview, Available at: https://learn.microsoft.com/en-us/core/managing-schemas/migrations/?tabs=dotnet-core-cli . Accessed: 30/08/2023
+- 
+- Stackoverflow, 2023, Available at: https://stackoverflow.com/questions/52311053/more-than-one-dbcontext-was-found . Accessed: 31/08/2023
