@@ -31,6 +31,10 @@ method per resource.
 
 - Host Web API on a cloud platform
 
+# Project link
+
+project22759365720230831150219.azurewebsites.net
+
 # References
 
 - inforworld, 2023, Available at: https://www.infoworld.com/article/3691114/how-to-work-with-ef-migrations-in-aspnet-core.amp.html . Accessed: 29/08/2023
